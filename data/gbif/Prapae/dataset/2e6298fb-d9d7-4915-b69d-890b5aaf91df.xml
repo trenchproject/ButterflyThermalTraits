@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="2e6298fb-d9d7-4915-b69d-890b5aaf91df"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/jo1wfa</alternateIdentifier>
+        <alternateIdentifier>https://scan-bugs.org:443/portal/collections/misc/collprofiles.php?collid=148</alternateIdentifier>
+        <title>The Lepidopterists&apos; Society Season Summary</title>
+        <creator>
+            <organizationName>SCAN</organizationName>
+            <electronicMailAddress>scan_noreply@asu.edu</electronicMailAddress>
+            <onlineUrl>https://scan-bugs.org:443/portal/index.php</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <organizationName>SCAN</organizationName>
+            <electronicMailAddress>scan_noreply@asu.edu</electronicMailAddress>
+            <onlineUrl>https://scan-bugs.org:443/portal/index.php</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>The Lepidopterists&apos; Society Season Summary</organizationName>
+            <positionName>Collection Manager</positionName>
+            <address>
+                <deliveryPoint>55 Music Concourse Dr</deliveryPoint>
+                <city>San Francisco</city>
+                <administrativeArea>California</administrativeArea>
+                <postalCode>94118</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>(415) 379-8000</phone>
+            <electronicMailAddress>info@lepsoc.org</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2024-02-15
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The Lepidopterists&amp;#39; Society Season Summary is an annual compilation of Lepidoptera records from Canada, Mexico, and the United States. Each year our members submit information regarding range extensions, host plant associations, population dynamics, etc. Automated in 1995, the database contains all records since that time plus Saturniidae and Sphingidae records since 1971. In spite of a strict review policy, it is inevitable that the database will contain occasional errors. However, by using the database as a pointer system, the data can be valuable for the avocational collector planning a vacation as well as the professional conducting research of the highest order.
+        </abstract>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://scan-bugs.org:443/portal/content/dwca/LEPSOC-LEPSOC_DwC-A.zip</url>
+            </online>
+        </distribution>
+        <contact>
+            <organizationName>The Lepidopterists&apos; Society Season Summary</organizationName>
+            <phone>(415) 379-8000</phone>
+            <electronicMailAddress>info@lepsoc.org</electronicMailAddress>
+            <onlineUrl>http://www.calacademy.org/scientists/entomology</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-01-18T04:07:23Z</dateStamp>
+                <citation>The Lepidopterists&apos; Society Season Summary (2024). The Lepidopterists&apos; Society Season Summary. Occurrence dataset https://doi.org/10.15468/jo1wfa accessed via GBIF.org on 2025-01-18.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

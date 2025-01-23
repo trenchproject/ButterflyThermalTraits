@@ -1,0 +1,80 @@
+When using this dataset please use the following citation and pay attention to the rights documented in rights.txt:
+Museum of Southwestern Biology (2023). Museum of Southwestern Biology, Division of Arthropods. Occurrence dataset https://doi.org/10.15468/jtovgy accessed via GBIF.org on 2025-01-18.
+Motz G (2025). Entomology Division, Yale Peabody Museum. Yale University Peabody Museum. Occurrence dataset https://doi.org/10.15468/95waq3 accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Royal British Columbia Museum Entomology Collection. Occurrence dataset https://doi.org/10.15468/fdpzzm accessed via GBIF.org on 2025-01-18.
+Gibbs J (2024). J. B. Wallis / R. E. Roughley Museum of Entomology. Version 1.1. University of Manitoba. Occurrence dataset https://doi.org/10.5886/hgagiy accessed via GBIF.org on 2025-01-18.
+Vermont Agricultural and Environmental Laboratory (2024). State of Vermont Forest Biology Lab. Occurrence dataset https://doi.org/10.15468/s3gj9m accessed via GBIF.org on 2025-01-18.
+naturgucker.de. NABU|naturgucker. Occurrence dataset https://doi.org/10.15468/uc1apo accessed via GBIF.org on 2025-01-18.
+Arizona State University Biocollections (2025). Arizona State University Hasbrouck Insect Collection. Occurrence dataset https://doi.org/10.15468/vv6k58 accessed via GBIF.org on 2025-01-18.
+New Mexico State Collection of Arthropods (2025). New Mexico State Collection of Arthropods. Occurrence dataset https://doi.org/10.15468/nn3cel accessed via GBIF.org on 2025-01-18.
+Song H, Johnson N (2018). Stuart M. Fullerton Collection of Arthropods (UCFC), University of Central Florida. Version 85.36. Museum of Biological Diversity, The Ohio State University. Occurrence dataset https://doi.org/10.15468/kyulwg accessed via GBIF.org on 2025-01-18.
+Favret C (2024). First record in Quebec for the western white, Pontia occidentalis (Reakirt) (Lepidoptera: Pieridae, Pierinae). Specimen Micropublications. Occurrence dataset https://doi.org/10.56222/28166531.2024.20 accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Agriculture and Agri-Food Canada, Saskatoon. Occurrence dataset https://doi.org/10.15468/bmstkk accessed via GBIF.org on 2025-01-18.
+University of Idaho William F Barr Entomological Museum (2024). William F. Barr Entomological Museum. Occurrence dataset https://doi.org/10.15468/j9epez accessed via GBIF.org on 2025-01-18.
+Denver Museum of Nature & Science (2025). Denver Museum of Nature & Science - Entomology. Occurrence dataset https://doi.org/10.15468/3vhkol accessed via GBIF.org on 2025-01-18.
+VanDyk J, Bartlett T, Sellers E (2023). BugGuide - Identification, Images, & Information For Insects, Spiders & Their Kin For the United States & Canada. Version 1.6. United States Geological Survey. Occurrence dataset https://doi.org/10.15468/sk2lxk accessed via GBIF.org on 2025-01-18.
+Colorado State University, C.P. Gillette Museum of Arthropod Diversity (2025). C.P. Gillette Museum of Arthropod Diversity. Occurrence dataset https://doi.org/10.15468/k0aett accessed via GBIF.org on 2025-01-18.
+University of California, Davis (2024). R. M. Bohart Museum of Entomology. Occurrence dataset https://doi.org/10.15468/bvzxln accessed via GBIF.org on 2025-01-18.
+University of Nevada, Reno (2023). University of Nevada, Reno, Museum of Natural History, Entomology Research Collection. Occurrence dataset https://doi.org/10.15468/wngxib accessed via GBIF.org on 2025-01-18.
+The International Barcode of Life Consortium (2024). International Barcode of Life project (iBOL). Occurrence dataset https://doi.org/10.15468/inygc6 accessed via GBIF.org on 2025-01-18.
+Sikes D (2024). UAM Insect Observations (Arctos). Version 36.93. University of Alaska Museum of the North. Occurrence dataset https://doi.org/10.15468/8nv0mp accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Ross A. Layberry, Collection. Occurrence dataset https://doi.org/10.15468/6ypjwv accessed via GBIF.org on 2025-01-18.
+Harvard University M, Morris P J (2025). Museum of Comparative Zoology, Harvard University. Version 162.454. Museum of Comparative Zoology, Harvard University. Occurrence dataset https://doi.org/10.15468/p5rupv accessed via GBIF.org on 2025-01-18.
+Braun J, King P (2022). Recent Invertebrates Specimens. Version 101.172. Sam Noble Oklahoma Museum of Natural History. Occurrence dataset https://doi.org/10.15468/glxcep accessed via GBIF.org on 2025-01-18.
+University of Minnesota Insect Collection (2024). University of Minnesota Insect Collection. Occurrence dataset https://doi.org/10.15468/ahwyqb accessed via GBIF.org on 2025-01-18.
+Finnish Biodiversity Information Facility (2025). Lepidoptera World (Luomus) (LEPW). Occurrence dataset https://doi.org/10.15468/mcarqb accessed via GBIF.org on 2025-01-18.
+San Diego Natural History Museum (2024). San Diego Natural History Museum Entomology Department. Occurrence dataset https://doi.org/10.15468/dpyqml accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. E.C. Manning Park Collection. Occurrence dataset https://doi.org/10.15468/tk0jri accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. University of Western Ontario Collection. Occurrence dataset https://doi.org/10.15468/ez9tlr accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Butterflies and Skippers of Alberta Project. Occurrence dataset https://doi.org/10.15468/ikoaym accessed via GBIF.org on 2025-01-18.
+Dekoninck W, Cooleman S (2024). RBINS Lepidoptera collection. Version 1.4. Royal Belgian Institute of Natural Sciences. Occurrence dataset https://doi.org/10.15468/hct2sw accessed via GBIF.org on 2025-01-18.
+Sikes D (2024). KWP Lepidoptera Collection (Arctos). University of Alaska Museum of the North. Occurrence dataset https://doi.org/10.15468/u4fp2u accessed via GBIF.org on 2025-01-18.
+Fägerström C (2025). Lund University Biological Museum - Insect collections Inventory. Version 367.823. Lund University Biological Museum. Occurrence dataset https://doi.org/10.15468/dahk2a accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Ross A. Layberry Observations. Occurrence dataset https://doi.org/10.15468/63w16t accessed via GBIF.org on 2025-01-18.
+Virginia Tech Insect Collection (2024). Virginia Polytechnic Institute and State University Insect Collection. Occurrence dataset https://doi.org/10.15468/m2htqa accessed via GBIF.org on 2025-01-18.
+Mississippi Entomological Museum (2025). Mississippi Entomological Museum. Occurrence dataset https://doi.org/10.15468/iuhxpw accessed via GBIF.org on 2025-01-18.
+Info, Park K (2023). 2007-2022_nibr_simpl_in. National Institute of Biological Resources. Occurrence dataset https://doi.org/10.15468/nuv9e9 accessed via GBIF.org on 2025-01-18.
+The Lepidopterists' Society Season Summary (2024). The Lepidopterists' Society Season Summary. Occurrence dataset https://doi.org/10.15468/jo1wfa accessed via GBIF.org on 2025-01-18.
+Scott V (2023). UCM Entomology Collection. Version 6.5. University of Colorado Museum of Natural History. Occurrence dataset https://doi.org/10.15468/jsgtns accessed via GBIF.org on 2025-01-18.
+Kutner L (2019). NatureServe Network Species Occurrence Data. Version 8.4. NatureServe. Occurrence dataset https://doi.org/10.15468/lysaex accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. New Brunswick Museum Collection. Occurrence dataset https://doi.org/10.15468/7qjvbu accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Lyman Entomological Museum. Occurrence dataset https://doi.org/10.15468/puqlvl accessed via GBIF.org on 2025-01-18.
+Ries L, Sellers E (2018). PollardBase. Version 1.2. United States Geological Survey. Occurrence dataset https://doi.org/10.15468/phlkto accessed via GBIF.org on 2025-01-18.
+Academy of Natural Sciences (2025). Academy of Natural Sciences Entomology Collection. Occurrence dataset https://doi.org/10.15468/sxn8na accessed via GBIF.org on 2025-01-18.
+Oram R (2024). Royal Saskatchewan Museum - Entomology. Version 2.0. Royal Saskatchewan Museum. Occurrence dataset https://doi.org/10.5886/osnmhn accessed via GBIF.org on 2025-01-18.
+Pauwels O, Samyn Y, Vandenberghe T (2021). RBINS DaRWIN. Royal Belgian Institute of Natural Sciences. Occurrence dataset https://doi.org/10.15468/qxy4mc accessed via GBIF.org on 2025-01-18.
+Colby J (2019). MPM Milwaukee Public Museum Invertebrate Zoology Collection. Version 1.7. Milwaukee Public Museum. Occurrence dataset https://doi.org/10.15468/d1zyd0 accessed via GBIF.org on 2025-01-18.
+University of Alberta Museums, Becker-Burns A, Mallalieu K (2024). University of Alberta E. H. Strickland Entomological Museum (UASM). University of Alberta Museums. Occurrence dataset https://doi.org/10.18165/9enbmt accessed via GBIF.org on 2025-01-18.
+A.J. Cook Arthropod Research Collection (2024). The Albert J. Cook Arthropod Research Collection. Occurrence dataset https://doi.org/10.15468/mtagq6 accessed via GBIF.org on 2025-01-18.
+Kansas State University Museum of Entomological and Prairie Arthropod Research (2023). K-State Museum of Entomological and Prairie Arthropod Research. Occurrence dataset https://doi.org/10.15468/fbhsf8 accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. M. Gollop Collection. Occurrence dataset https://doi.org/10.15468/onfzsm accessed via GBIF.org on 2025-01-18.
+Luther College (2025). Luther Entomological Research Collection. Occurrence dataset https://doi.org/10.15468/vy5e54 accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. University of Saskatchewan. Occurrence dataset https://doi.org/10.15468/ndtt1m accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Norbert Kondla Collection. Occurrence dataset https://doi.org/10.15468/y9srmx accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Crispin S. Guppy Collection. Occurrence dataset https://doi.org/10.15468/oc1lev accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Northern Forestry Centre Arthropod Collection, Edmonton. Occurrence dataset https://doi.org/10.15468/qdkvnn accessed via GBIF.org on 2025-01-18.
+Frederick L (2024). New Mexico Museum of Natural History and Science (NMMNHS) Insect specimens (Arctos). Version 1.49. New Mexico Museum of Natural History and Science. Occurrence dataset https://doi.org/10.15468/rucdm8 accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Alan Wormington Collection. Occurrence dataset https://doi.org/10.15468/fbhyrt accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Donald F. Hooper Butterfly collection, Canada. Occurrence dataset https://doi.org/10.15468/sxkokl accessed via GBIF.org on 2025-01-18.
+Telfer A (2019). Centre for Biodiversity Genomics - Canadian Specimens. Version 1.5. University of Guelph. Occurrence dataset https://doi.org/10.15468/mbwnw9 accessed via GBIF.org on 2025-01-18.
+Orrell T, Informatics and Data Science Center - Digital Stewardship (2025). NMNH Extant Specimen Records (USNM, US). Version 1.90. National Museum of Natural History, Smithsonian Institution. Occurrence dataset https://doi.org/10.15468/hnhrg3 accessed via GBIF.org on 2025-01-18.
+Johnson N (2019). Cleveland Museum of Natural History. Museum of Biological Diversity, The Ohio State University. Occurrence dataset https://doi.org/10.15468/bmfgag accessed via GBIF.org on 2025-01-18.
+Shepard J, Marshall C, Hammond P (2021). osac-lepidoptera-2018-07-01. Version 1.7. Oregon State University. Occurrence dataset https://doi.org/10.15468/8rl4nk accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Spencer Entomological Museum. Occurrence dataset https://doi.org/10.15468/0fyxql accessed via GBIF.org on 2025-01-18.
+Staniec B, Wagner G K, Kowalczyk M, Dzyr A, Chobotow J, Kucharska K (2024). UMCS Entomological Collection. University of Maria Curie-Skłodowska. Occurrence dataset https://doi.org/10.15468/757m9c accessed via GBIF.org on 2025-01-18.
+Leibniz Institute for the Analysis of Biodiversity Change (LIB). ZFMK Lepidoptera collection. Occurrence dataset https://doi.org/10.15468/6wsc24 accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Canadian National Collection (CNC) of Insects, Arachnids and Nematodes. Occurrence dataset https://doi.org/10.15468/aidtmg accessed via GBIF.org on 2025-01-18.
+Santa Barbara Museum of Natural History (2024). Santa Barbara Museum of Natural History Entomology Collection. Occurrence dataset https://doi.org/10.15468/74wfv6 accessed via GBIF.org on 2025-01-18.
+Larrivée M, McFarland K, Zhang X, Prudic K, Solis R, Bunsen M, Kerr J (2025). eButterfly Surveys. Version 1.1009. Vermont Center for Ecostudies. Sampling event dataset https://doi.org/10.15468/ykxm8x accessed via GBIF.org on 2025-01-18.
+European Bioinformatics Institute (EMBL-EBI), GBIF Helpdesk (2025). INSDC Sequences. Version 1.119. European Nucleotide Archive (EMBL-EBI). Occurrence dataset https://doi.org/10.15468/sbmztx accessed via GBIF.org on 2025-01-18.
+Hubley B (2024). Royal Ontario Museum - Entomology Collection. Version 2.0. Royal Ontario Museum. Occurrence dataset https://doi.org/10.5886/p69k4g accessed via GBIF.org on 2025-01-18.
+Sikes D (2024). UAM Insect Collection (Arctos). Version 39.95. University of Alaska Museum of the North. Occurrence dataset https://doi.org/10.15468/qs8slz accessed via GBIF.org on 2025-01-18.
+Purdue Entomological Research Collection (2023). The Purdue Entomological Research Collection. Occurrence dataset https://doi.org/10.15468/hyexfq accessed via GBIF.org on 2025-01-18.
+Western Washington University Insect Collection (WWUC) (2024). Western Washington University Insect Collection. Occurrence dataset https://doi.org/10.15468/v5seko accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Peter Hall Observations. Occurrence dataset https://doi.org/10.15468/g3svjh accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. Manitoba Museum of Man and Nature. Occurrence dataset https://doi.org/10.15468/miwlmd accessed via GBIF.org on 2025-01-18.
+Natural History Museum of Utah (UMNH) (2025). Entomology Collection at the Natural History Museum of Utah. Occurrence dataset https://doi.org/10.15468/iyehoe accessed via GBIF.org on 2025-01-18.
+New Brunswick Museum (2024). New Brunswick Museum - Insects. Occurrence dataset https://doi.org/10.15468/d8dv3a accessed via GBIF.org on 2025-01-18.
+Fägerström C (2025). Lund University Biological Museum - Insect collections Specimens. Version 1.54. Lund University Biological Museum. Occurrence dataset https://doi.org/10.15468/hxfuwr accessed via GBIF.org on 2025-01-18.
+iNaturalist contributors, iNaturalist (2025). iNaturalist Research-grade Observations. iNaturalist.org. Occurrence dataset https://doi.org/10.15468/ab3s5x accessed via GBIF.org on 2025-01-18.
+Canadian Biodiversity Information Facility. University of Guelph, Department of Environmental Biology. Occurrence dataset https://doi.org/10.15468/je9xbs accessed via GBIF.org on 2025-01-18.

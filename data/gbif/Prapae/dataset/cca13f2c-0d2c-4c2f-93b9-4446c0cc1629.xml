@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="cca13f2c-0d2c-4c2f-93b9-4446c0cc1629"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/sk2lxk</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.us/resource?r=bugguide</alternateIdentifier>
+        <alternateIdentifier>cca13f2c-0d2c-4c2f-93b9-4446c0cc1629</alternateIdentifier>
+        <alternateIdentifier>https://bison.usgs.gov/ipt/resource?r=bugguide</alternateIdentifier>
+        <title>BugGuide - Identification, Images, &amp; Information For Insects, Spiders &amp; Their Kin For the United States &amp; Canada</title>
+        <creator>
+            <individualName>
+                <givenName>John</givenName>
+                <surName>VanDyk</surName>
+            </individualName>
+            <organizationName>Iowa State University, Department of Entomology, College of Agriculture and Life Sciences</organizationName>
+            <positionName>Senior Systems Analyst, Adjunct Assistant Professor</positionName>
+            <address>
+                <deliveryPoint>407 Science II</deliveryPoint>
+                <city>Ames</city>
+                <administrativeArea>Iowa</administrativeArea>
+                <postalCode>50011-3222</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>+1 515 294 7401</phone>
+            <electronicMailAddress>jvandyk@iastate.edu</electronicMailAddress>
+            <onlineUrl>http://www.ent.iastate.edu/people/john-vandyk</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Troy</givenName>
+                <surName>Bartlett</surName>
+            </individualName>
+            <organizationName>BugGuide</organizationName>
+            <positionName>Founder</positionName>
+            <address>
+                <administrativeArea>Georgia</administrativeArea>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>troy@troyb.com</electronicMailAddress>
+            <onlineUrl>http://troyb.com</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Troy</givenName>
+                <surName>Bartlett</surName>
+            </individualName>
+            <organizationName>BugGuide</organizationName>
+            <positionName>Founder</positionName>
+            <address>
+                <deliveryPoint>9220 Twelvestones Dr</deliveryPoint>
+                <city>Roswell</city>
+                <administrativeArea>GA</administrativeArea>
+                <postalCode>30076</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>troy@troyb.com</electronicMailAddress>
+            <onlineUrl>http://troyb.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>John</givenName>
+                <surName>VanDyk</surName>
+            </individualName>
+            <organizationName>Iowa State University, Department of Entomology, College of Agriculture and Life Sciences</organizationName>
+            <positionName>Senior Systems Analyst, Adjunct Assistant Professor</positionName>
+            <address>
+                <deliveryPoint>407 Science II</deliveryPoint>
+                <city>Ames</city>
+                <administrativeArea>Iowa</administrativeArea>
+                <postalCode>50011-3222</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>+1 515 294 7401</phone>
+            <electronicMailAddress>jvandyk@iastate.edu</electronicMailAddress>
+            <onlineUrl>http://www.ent.iastate.edu/people/john-vandyk</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Elizabeth</givenName>
+                <surName>Sellers</surName>
+            </individualName>
+            <organizationName>United States Geological Survey (USGS)</organizationName>
+            <positionName>Technical Information Specialist - Biology</positionName>
+            <address>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>esellers@usgs.gov</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Jesse</surName>
+            </individualName>
+            <organizationName>Iowa State University</organizationName>
+            <positionName>Entomologist</positionName>
+            <address>
+                <deliveryPoint>327 Bessey</deliveryPoint>
+                <city>Ames</city>
+                <administrativeArea>Iowa</administrativeArea>
+                <postalCode>50011</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>515-294-0581</phone>
+            <electronicMailAddress>ljesse@iastate.edu</electronicMailAddress>
+            <onlineUrl>https://www.plantpath.iastate.edu/people/laura-jesse</onlineUrl>
+            <role>EDITOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-11-30
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            BugGuide (http://bugguide.net) is an online community of naturalists who enjoy learning about and sharing observations of insects, spiders, and other related creatures. BugGuide collects photographs of insects and other arthropods from the United States and Canada for identification and research and summarizes findings in guide pages for each order, family, genus, and species. By capturing the place and time that submitted images were taken, BugGuide creates a virtual insect collection.
+        </abstract>
+        <keywordSet>
+            <keyword>Metadata</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>aquatic insects</keyword>
+            <keyword>arachnids</keyword>
+            <keyword>terrestrial insects</keyword>
+            <keyword>arthropods</keyword>
+            <keyword>insects</keyword>
+            <keywordThesaurus>USGS CSAS&amp;L Biocomplexity Thesaurus http://www.usgs.gov/core_science_systems/csas/biocomplexity_thesaurus/</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://bugguide.net/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.us/archive.do?r=bugguide</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>North America, north of Mexico.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-169.26</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-50.12</eastBoundingCoordinate>
+                    <northBoundingCoordinate>72.35</northBoundingCoordinate>
+                    <southBoundingCoordinate>24.02</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2004-02-02
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2015
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Arthropods including insects (Insecta), spiders (Arachnida), and other crawling invertebrates.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Amphipoda</taxonRankValue>
+                    <commonName>Amphipods</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Isopoda</taxonRankValue>
+                    <commonName>Isopods</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Geophilomorpha</taxonRankValue>
+                    <commonName>Soil Centipedes</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Scutigeromorpha</taxonRankValue>
+                    <commonName>House Centipedes</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Scolopendromorpha</taxonRankValue>
+                    <commonName>Bark Centipedes</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Diptera</taxonRankValue>
+                    <commonName>Flies</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Mecoptera</taxonRankValue>
+                    <commonName>Scorpionflies, Hangingflies, and Allies</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lepidoptera</taxonRankValue>
+                    <commonName>Butterflies and Moths</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hymenoptera</taxonRankValue>
+                    <commonName>Ants, Bees, Wasps and Sawflies</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coleoptera</taxonRankValue>
+                    <commonName>Beetles</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Neuroptera</taxonRankValue>
+                    <commonName>Antlions, Owlflies, Lacewings, Mantidflies and Allies</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hemiptera</taxonRankValue>
+                    <commonName>True Bugs, Cicadas, Hoppers, Aphids and Allies</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Psocodea</taxonRankValue>
+                    <commonName>Barklice, Booklice, and Parasitic Lice</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Orthoptera</taxonRankValue>
+                    <commonName>Grasshoppers, Crickets, Katydids</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Phasmida</taxonRankValue>
+                    <commonName>Walkingsticks</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Plecoptera</taxonRankValue>
+                    <commonName>Stoneflies</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Odonata</taxonRankValue>
+                    <commonName>Dragonflies and Damselflies</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ephemeroptera</taxonRankValue>
+                    <commonName>Mayflies</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Zygentoma</taxonRankValue>
+                    <commonName>Silverfish</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Microcoryphia</taxonRankValue>
+                    <commonName>Bristletails</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Araneae</taxonRankValue>
+                    <commonName>Spiders</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Opiliones</taxonRankValue>
+                    <commonName>Harvestmen</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Scorpiones</taxonRankValue>
+                    <commonName>Scorpions</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Springtails</taxonRankValue>
+                    <commonName>Springtails and allies</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dermaptera</taxonRankValue>
+                    <commonName>Earwigs</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pseudoscorpiones</taxonRankValue>
+                    <commonName>Pseudoscorpions</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Amblypygi</taxonRankValue>
+                    <commonName>Tailless Whipscorpions</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Trichoptera</taxonRankValue>
+                    <commonName>Caddisflies</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polydesmida</taxonRankValue>
+                    <commonName>Flat-backed Millipedes</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Siphonaptera</taxonRankValue>
+                    <commonName>Siphonaptera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Solifugae</taxonRankValue>
+                    <commonName>Windscorpions</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Thysanoptera</taxonRankValue>
+                    <commonName>Thrips</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Strepsiptera</taxonRankValue>
+                    <commonName>Twisted-winged Insects</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lithobiomorpha</taxonRankValue>
+                    <commonName>Stone Centipedes</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Platydesmida</taxonRankValue>
+                    <commonName>Platydesmida</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Spirobolida</taxonRankValue>
+                    <commonName>Spirobolida</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Spirostreptida</taxonRankValue>
+                    <commonName>Spirostreptida</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polyzoniida</taxonRankValue>
+                    <commonName>Polyzoniida</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Embiidina</taxonRankValue>
+                    <commonName>Webspinners</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polyxenida</taxonRankValue>
+                    <commonName>Bristly Millipedes</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Uropygi</taxonRankValue>
+                    <commonName>Whipscorpions</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Zoraptera</taxonRankValue>
+                    <commonName>Zorapterans</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ixodida</taxonRankValue>
+                    <commonName>Ticks</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Mesostigmata</taxonRankValue>
+                    <commonName>Mesostigs</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Astigmata</taxonRankValue>
+                    <commonName>Astigs</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Oribatida</taxonRankValue>
+                    <commonName>Oribatids</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Julida</taxonRankValue>
+                    <commonName>Julida</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Callipodida</taxonRankValue>
+                    <commonName>Crested Millipedes</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chordeumatida</taxonRankValue>
+                    <commonName>Chordeumatida</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Schizomida</taxonRankValue>
+                    <commonName>Short-tailed Whipscorpions</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Raphidioptera</taxonRankValue>
+                    <commonName>Snakeflies</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Megaloptera</taxonRankValue>
+                    <commonName>Alderflies, Dobsonflies, and Fishflies</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Notoptera</taxonRankValue>
+                    <commonName>Rock Crawlers</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Opilioacarida</taxonRankValue>
+                    <commonName>Opilioacarida</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Poduromorpha</taxonRankValue>
+                    <commonName>Poduromorpha</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>Entomobryomorpha</taxonRankValue>
+                    <commonName>Elongate-bodied Springtails</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>To share observations and knowledge of insects, spiders, and other related creatures for identification and research.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>John</givenName>
+                <surName>VanDyk</surName>
+            </individualName>
+            <organizationName>Iowa State University, Department of Entomology, College of Agriculture and Life Sciences</organizationName>
+            <positionName>Senior Systems Analyst, Adjunct Assistant Professor</positionName>
+            <address>
+                <deliveryPoint>407 Science II</deliveryPoint>
+                <city>Ames</city>
+                <administrativeArea>Iowa</administrativeArea>
+                <postalCode>50011-3222</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>+1 515 294 7401</phone>
+            <electronicMailAddress>jvandyk@iastate.edu</electronicMailAddress>
+            <onlineUrl>http://www.ent.iastate.edu/people/john-vandyk</onlineUrl>
+        </contact>
+
+            <project >
+                <title>BugGuide - Identification, Images, &amp; Information For Insects, Spiders &amp; Their Kin For the United States &amp; Canada</title>
+                <personnel>
+                    <individualName>
+                    <givenName>John</givenName>
+                    <surName>VanDyk</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-01-18T04:07:21Z</dateStamp>
+                <citation>VanDyk J, Bartlett T, Sellers E (2023). BugGuide - Identification, Images, &amp; Information For Insects, Spiders &amp; Their Kin For the United States &amp; Canada. Version 1.6. United States Geological Survey. Occurrence dataset https://doi.org/10.15468/sk2lxk accessed via GBIF.org on 2025-01-18.</citation>
+                <resourceLogoUrl>https://bison.usgs.gov/ipt/logo.do?r=bugguide</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

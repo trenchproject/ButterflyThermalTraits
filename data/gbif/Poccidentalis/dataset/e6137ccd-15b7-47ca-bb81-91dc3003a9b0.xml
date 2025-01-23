@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="e6137ccd-15b7-47ca-bb81-91dc3003a9b0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/fbhsf8</alternateIdentifier>
+        <alternateIdentifier>https://biokic2.rc.asu.edu:443/portal/collections/misc/collprofiles.php?collid=80</alternateIdentifier>
+        <alternateIdentifier>https://scan-bugs.org:443/portal/collections/misc/collprofiles.php?collid=80</alternateIdentifier>
+        <alternateIdentifier>http://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=80</alternateIdentifier>
+        <title>K-State Museum of Entomological and Prairie Arthropod Research</title>
+        <creator>
+            <organizationName>SCAN</organizationName>
+            <electronicMailAddress>scan_noreply@asu.edu</electronicMailAddress>
+            <onlineUrl>https://scan-bugs.org:443/portal/index.php</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <organizationName>SCAN</organizationName>
+            <electronicMailAddress>scan_noreply@asu.edu</electronicMailAddress>
+            <onlineUrl>https://scan-bugs.org:443/portal/index.php</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>K-State Museum of Entomological and Prairie Arthropod Research</organizationName>
+            <positionName>Collection Manager</positionName>
+            <electronicMailAddress>gregz@ksu.edu</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2023-05-17
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The Kansas State University Museum of Entomological and Prairie Arthropod Research (KSU-MEPAR) is nearly as old as Kansas State University itself, having been started in 1879 by E. A. Popenoe, the first full-time entomologist employed at the Kansas State College. The collection has grown considerably since that time and is estimated to contain approximately 300,000 specimens. The type collection includes 52 holotypes, and 2,214 paratype specimens representing 668 species. The majority of the specimens are from the midwestern states and the western U.S. Many of the specimens were collected from local and regional prairies between 1880 and 1920, providing valuable historical specimens and records of the fauna before the land succumbed to farming and ranching. A significant amount of Neotropical, and some Old World, specimens are also present. The primary purposes of the museum are to collect, preserve, and maintain a research collection of insects and other arthropods, and their associated information, that represent the natural history of Kansas and the prairie region; to study and interpret this information; to make the specimens and other information available for study by researchers; and to use the museum as a resource of information through publications, exhibits, displays, and other informative outreach activities.
+        </abstract>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://scan-bugs.org/portal/content/dwca/KSU-MEPAR_DwC-A.zip</url>
+            </online>
+        </distribution>
+        <contact>
+            <organizationName>K-State Museum of Entomological and Prairie Arthropod Research</organizationName>
+            <electronicMailAddress>gregz@ksu.edu</electronicMailAddress>
+            <onlineUrl>http://entomology.k-state.edu/department-info/facilities/insect-museum/</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-01-18T04:07:25Z</dateStamp>
+                <citation>Kansas State University Museum of Entomological and Prairie Arthropod Research (2023). K-State Museum of Entomological and Prairie Arthropod Research. Occurrence dataset https://doi.org/10.15468/fbhsf8 accessed via GBIF.org on 2025-01-18.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

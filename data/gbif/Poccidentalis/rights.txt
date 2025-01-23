@@ -1,0 +1,158 @@
+Dataset: Museum of Southwestern Biology, Division of Arthropods 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Entomology Division, Yale Peabody Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Royal British Columbia Museum Entomology Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: J. B. Wallis / R. E. Roughley Museum of Entomology 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: State of Vermont Forest Biology Lab 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NABU|naturgucker 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Arizona State University Hasbrouck Insect Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: New Mexico State Collection of Arthropods 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Stuart M. Fullerton Collection of Arthropods (UCFC), University of Central Florida 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: First record in Quebec for the western white, Pontia occidentalis (Reakirt) (Lepidoptera: Pieridae, Pierinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Agriculture and Agri-Food Canada, Saskatoon 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: William F. Barr Entomological Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Denver Museum of Nature & Science - Entomology 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: BugGuide - Identification, Images, & Information For Insects, Spiders & Their Kin For the United States & Canada 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: C.P. Gillette Museum of Arthropod Diversity 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: R. M. Bohart Museum of Entomology 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of Nevada, Reno, Museum of Natural History, Entomology Research Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: International Barcode of Life project (iBOL) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UAM Insect Observations (Arctos) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ross A. Layberry, Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Museum of Comparative Zoology, Harvard University 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Recent Invertebrates Specimens 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of Minnesota Insect Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Lepidoptera World (Luomus) (LEPW) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: San Diego Natural History Museum Entomology Department 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: E.C. Manning Park Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Western Ontario Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Butterflies and Skippers of Alberta Project 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: RBINS Lepidoptera collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: KWP Lepidoptera Collection (Arctos) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lund University Biological Museum - Insect collections Inventory 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Ross A. Layberry Observations 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Virginia Polytechnic Institute and State University Insect Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Mississippi Entomological Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: 2007-2022_nibr_simpl_in 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The Lepidopterists' Society Season Summary 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: UCM Entomology Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NatureServe Network Species Occurrence Data 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: New Brunswick Museum Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lyman Entomological Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: PollardBase 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Academy of Natural Sciences Entomology Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Royal Saskatchewan Museum - Entomology 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: RBINS DaRWIN 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: MPM Milwaukee Public Museum Invertebrate Zoology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of Alberta E. H. Strickland Entomological Museum (UASM) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The Albert J. Cook Arthropod Research Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: K-State Museum of Entomological and Prairie Arthropod Research 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: M. Gollop Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Luther Entomological Research Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of Saskatchewan 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Norbert Kondla Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Crispin S. Guppy Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Northern Forestry Centre Arthropod Collection, Edmonton 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: New Mexico Museum of Natural History and Science (NMMNHS) Insect specimens (Arctos) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Alan Wormington Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Donald F. Hooper Butterfly collection, Canada 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Centre for Biodiversity Genomics - Canadian Specimens 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NMNH Extant Specimen Records (USNM, US) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Cleveland Museum of Natural History 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: osac-lepidoptera-2018-07-01 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Spencer Entomological Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: UMCS Entomological Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: ZFMK Lepidoptera collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Canadian National Collection (CNC) of Insects, Arachnids and Nematodes 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Santa Barbara Museum of Natural History Entomology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: eButterfly Surveys 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: INSDC Sequences 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Royal Ontario Museum - Entomology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: UAM Insect Collection (Arctos) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Purdue Entomological Research Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Western Washington University Insect Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Peter Hall Observations 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Manitoba Museum of Man and Nature 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Entomology Collection at the Natural History Museum of Utah 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: New Brunswick Museum - Insects 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Lund University Biological Museum - Insect collections Specimens 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of Guelph, Department of Environmental Biology 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="d4aea86c-bd2c-4526-ab57-c6a98dc057e5"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/j9epez</alternateIdentifier>
+        <alternateIdentifier>https://ecdysis.org/collections/misc/collprofiles.php?collid=150</alternateIdentifier>
+        <alternateIdentifier>https://scan-bugs.org:443/portal/collections/misc/collprofiles.php?collid=89</alternateIdentifier>
+        <alternateIdentifier>http://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=89</alternateIdentifier>
+        <title>William F. Barr Entomological Museum</title>
+        <creator>
+            <organizationName>Ecdysis Portal</organizationName>
+            <onlineUrl>https://ecdysis.org/index.php</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <organizationName>Ecdysis Portal</organizationName>
+            <onlineUrl>https://ecdysis.org/index.php</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Luc</givenName>
+                <surName>Leblanc</surName>
+            </individualName>
+            <positionName>Curator</positionName>
+            <electronicMailAddress>leblancl@uidaho.edu</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Stephen</givenName>
+                <surName>Cook</surName>
+            </individualName>
+            <electronicMailAddress>stephenc@uidaho.edu</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2024-11-01
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The University of Idaho&amp;rsquo;s William F. Barr Entomological Museum is located in the Agriculture building (room 136) at the University of Idaho (Moscow, ID). The museum was initiated in 1946, when taxonomist W.F. Barr (1920-2011) was hired at UI, where he served until retiring in 1982. The collection contains over one million pinned specimens, housed in 142 CAS type cabinets, over 20,000 vials of ethanol-preserved immatures, and a modest collection of slide-mounted mites, Diptera and aphids. The primary geographic focus is the Pacific Northwest region and southern deserts, but also world coverage for Buprestidae and Cleridae, Bill Barr&amp;rsquo;s specialty families. Other particularly well represented groups are other families of Coleoptera, rangeland grasshoppers, aquatic insects and butterflies. The collection also houses the very large collection of reprints and rare books donated by Melville H. Hatch. The long-serving (1986-2015) curator was Frank Merickel, a position held by Luc Leblanc (leblancl&amp;#64;uidaho.edu) since 2015.</para>
+        </abstract>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ecdysis.org/content/dwca/UI-WFBM_DwC-A.zip</url>
+            </online>
+        </distribution>
+        <contact>
+            <organizationName>William F. Barr Entomological Museum</organizationName>
+            <electronicMailAddress>leblancl@uidaho.edu</electronicMailAddress>
+            <onlineUrl>https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology/research/entomological-museum</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-01-18T04:07:21Z</dateStamp>
+                <citation>University of Idaho William F Barr Entomological Museum (2024). William F. Barr Entomological Museum. Occurrence dataset https://doi.org/10.15468/j9epez accessed via GBIF.org on 2025-01-18.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

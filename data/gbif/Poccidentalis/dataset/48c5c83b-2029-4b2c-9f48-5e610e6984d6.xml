@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="48c5c83b-2029-4b2c-9f48-5e610e6984d6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.5886/p69k4g</alternateIdentifier>
+        <alternateIdentifier>10.15468/2sszxg</alternateIdentifier>
+        <alternateIdentifier>https://data.canadensys.net/ipt/resource?r=rom-entomology</alternateIdentifier>
+        <alternateIdentifier>48c5c83b-2029-4b2c-9f48-5e610e6984d6</alternateIdentifier>
+        <title>Royal Ontario Museum - Entomology Collection</title>
+        <creator>
+            <individualName>
+                <givenName>Brad</givenName>
+                <surName>Hubley</surName>
+            </individualName>
+            <organizationName>Royal Ontario Museum</organizationName>
+            <positionName>Entomology Collection Manager</positionName>
+            <address>
+                <deliveryPoint>100 Queen&apos;s Park</deliveryPoint>
+                <city>Toronto</city>
+                <administrativeArea>Ontario</administrativeArea>
+                <postalCode>M5S 2C6</postalCode>
+                <country>CANADA</country>
+            </address>
+            <phone>1-416-586-5764</phone>
+            <electronicMailAddress>bradh@rom.on.ca</electronicMailAddress>
+            <onlineUrl>https://www.rom.on.ca/en/collections-research/rom-staff/brad-hubley</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-2112-3187</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Brad</givenName>
+                <surName>Hubley</surName>
+            </individualName>
+            <organizationName>Royal Ontario Museum</organizationName>
+            <positionName>Entomology Collection Manager</positionName>
+            <address>
+                <deliveryPoint>100 Queen&apos;s Park</deliveryPoint>
+                <city>Toronto</city>
+                <administrativeArea>Ontario</administrativeArea>
+                <postalCode>M5S 2C6</postalCode>
+                <country>CANADA</country>
+            </address>
+            <phone>1-416-586-5764</phone>
+            <electronicMailAddress>bradh@rom.on.ca</electronicMailAddress>
+            <onlineUrl>https://www.rom.on.ca/en/collections-research/rom-staff/brad-hubley</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-2112-3187</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Antonia</givenName>
+                <surName>Guidotti</surName>
+            </individualName>
+            <organizationName>Royal Ontario Museum</organizationName>
+            <positionName>Collection Technician</positionName>
+            <address>
+                <city>Toronto</city>
+                <administrativeArea>Ontario</administrativeArea>
+                <country>CANADA</country>
+            </address>
+            <phone>1-416-586-5765</phone>
+            <electronicMailAddress>antoniag@rom.on.ca</electronicMailAddress>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <pubDate>
+                2024-06-11
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            More than 10 million specimens of insects, arachnids and myriapods. Strong in aquatic groups of insects. Trichoptera, Hymenoptera and Diptera (Simuliidae). Geographic representation is strong for North America and South-East Asia.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://www.rom.on.ca/en/collections-research</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://data.canadensys.net/ipt/archive.do?r=rom-entomology</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Strong representation for North America and SE Asia.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1862-07-10
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-10-01
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coleoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Arthropoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Odonata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Diptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gyrinidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Milichiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Nymphalidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Blattodea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hesperiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Trichoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Aeshnidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Limnephilidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hymenoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Scarabaeidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Baetidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Scelionidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lestidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Braconidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ichneumonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ephemeroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Eulophidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Syrphidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Curculionidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphingidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Anthribidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Endomychidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Libellulidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Tenthredinidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Geometridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hybosoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Vespidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lepidoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Apidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Coenagrionidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Elateridae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Brad</givenName>
+                <surName>Hubley</surName>
+            </individualName>
+            <organizationName>Royal Ontario Museum</organizationName>
+            <positionName>Entomology Collection Manager</positionName>
+            <address>
+                <deliveryPoint>100 Queen&apos;s Park</deliveryPoint>
+                <city>Toronto</city>
+                <administrativeArea>Ontario</administrativeArea>
+                <postalCode>M5S 2C6</postalCode>
+                <country>CANADA</country>
+            </address>
+            <phone>1-416-586-5764</phone>
+            <electronicMailAddress>bradh@rom.on.ca</electronicMailAddress>
+            <onlineUrl>https://www.rom.on.ca/en/collections-research/rom-staff/brad-hubley</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-2112-3187</userId>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-01-18T04:07:27Z</dateStamp>
+                <citation identifier="https://doi.org/10.5886/p69k4g">Hubley B (2024). Royal Ontario Museum - Entomology Collection. Version 2.0. Royal Ontario Museum. Occurrence dataset https://doi.org/10.5886/p69k4g accessed via GBIF.org on 2025-01-18.</citation>
+                <resourceLogoUrl>https://data.canadensys.net/ipt/logo.do?r=rom-entomology</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

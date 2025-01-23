@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="c5705629-8427-4b9e-9bc5-ce707f701735"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.56222/28166531.2024.20</alternateIdentifier>
+        <alternateIdentifier>https://data.canadensys.net/micropublications/resource?r=specimen_20</alternateIdentifier>
+        <title>First record in Quebec for the western white, Pontia occidentalis (Reakirt) (Lepidoptera: Pieridae, Pierinae)</title>
+        <creator>
+            <individualName>
+                <givenName>Colin</givenName>
+                <surName>Favret</surName>
+            </individualName>
+            <organizationName>Specimen Micropublications</organizationName>
+            <address>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>colin.favret@umontreal.ca</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-6243-3184</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Colin</givenName>
+                <surName>Favret</surName>
+            </individualName>
+            <organizationName>Specimen Micropublications</organizationName>
+            <address>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>colin.favret@umontreal.ca</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-6243-3184</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Érik</givenName>
+                <surName>Plante</surName>
+            </individualName>
+            <address>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>erikplante@hotmail.fr</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-8347-4567</userId>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-02-10
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Specimen data to accompany: Plante É. 2024. First record in Quebec for the western white, Pontia occidentalis (Reakirt) (Lepidoptera: Pieridae, Pierinae). Specimen 24. https://doi.org/10.56222/28166531.2024.20
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://data.canadensys.net/micropublications/archive.do?r=specimen_20</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Quebec, Canada</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-08-22
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-08-26
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pontia occidentalis</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Colin</givenName>
+                <surName>Favret</surName>
+            </individualName>
+            <organizationName>Specimen Micropublications</organizationName>
+            <address>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>colin.favret@umontreal.ca</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-6243-3184</userId>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-01-18T04:07:21Z</dateStamp>
+                <citation identifier="https://doi.org/10.56222/28166531.2024.20">Favret C (2024). First record in Quebec for the western white, Pontia occidentalis (Reakirt) (Lepidoptera: Pieridae, Pierinae). Specimen Micropublications. Occurrence dataset https://doi.org/10.56222/28166531.2024.20 accessed via GBIF.org on 2025-01-18.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>
