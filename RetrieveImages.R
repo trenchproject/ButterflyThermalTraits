@@ -62,7 +62,7 @@ pr2<- pr1[pr1$publisher=="Museum of Comparative Zoology, Harvard University",]
 #set download location
 #toggle between desktop (y) and laptop (n)
 desktop<- "n"
-if(desktop=="y") location <- "/Users/laurenbuckley/Google Drive/My Drive/Buckley/Work/ThermalHistory/out/"
+if(desktop=="y") location <- "/Users/laurenbuckley/Google Drive/Shared drives/TrEnCh/Projects/WARP/Projects/WingColoration/images/"
 if(desktop=="n") location <- "/Users/lbuckley/Google Drive/Shared drives/TrEnCh/Projects/WARP/Projects/WingColoration/images/"
 
 #Pontia occidentalis
