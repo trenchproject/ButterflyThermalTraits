@@ -39,8 +39,13 @@ uvx --from git+https://github.com/Imageomics/wing-segmentation.git wingseg segme
 
 uvx --with "numpy<2" "dm-tree@0.1.8" --from git+https://github.com/Imageomics/wing-segmentation.git wingseg segment --dataset ~/butterfly_testimages
 
+#-----------------------------
 
+#segmentation
+uvx --with "numpy<2,dm-tree==0.1.8" --from git+https://github.com/trenchproject/wing-segmentation.git wingseg segment --dataset '/Users/lbuckley/yolotemp/images/testimages' --force
 
-
-
+#check output
+uvx --with "numpy<2,dm-tree==0.1.8" --from git+https://github.com/trenchproject/wing-segmentation.git wingseg scan-runs --dataset '/Users/lbuckley/yolotemp/images/testimages' 
+  
+  
 
