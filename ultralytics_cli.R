@@ -32,6 +32,15 @@ python3 wing-segmentation-main/segmentation_scripts/select_individual_wings.py -
 #imager
 #opencv
 
+uvx --from git+https://github.com/Imageomics/wing-segmentation.git wingseg -h 
+uvx --from git+https://github.com/Imageomics/wing-segmentation.git wingseg segment -h
+
+uvx --from git+https://github.com/Imageomics/wing-segmentation.git wingseg segment --dataset '/Users/lbuckley/yolotemp/images/testimages'
+
+uvx --with "numpy<2" "dm-tree@0.1.8" --from git+https://github.com/Imageomics/wing-segmentation.git wingseg segment --dataset ~/butterfly_testimages
+
+
+
 
 
 

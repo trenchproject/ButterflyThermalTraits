@@ -70,8 +70,8 @@ if(desktop=="n") location <- "/Users/lbuckley/Google Drive/Shared drives/TrEnCh/
 imgs <- read.csv("data/SCAN_Poccidentalis/images.csv")
 
 table(imgs$Owner)
-imgs<- imgs[imgs$Owner=="Yale University",]
-imgs<- imgs[imgs$Owner=="Rights for individual observations belong to the individual observers. In jurisdictions where collections of data are are considered intellectual property, the rights holder of this collection is the California Academy of Sciences.",]
+#imgs<- imgs[imgs$Owner=="Yale University",]
+#imgs<- imgs[imgs$Owner=="Rights for individual observations belong to the individual observers. In jurisdictions where collections of data are are considered intellectual property, the rights holder of this collection is the California Academy of Sciences.",]
 
 for(i in 1:dim(imgs)[1]){
   try(download.file(imgs$accessURI[i], paste(location,"scan_po/",str_extract(imgs$accessURI[i], "([^/]+$)"),".jpg",sep=""),
@@ -101,11 +101,18 @@ for(i in 1:dim(imgs)[1]){
 imgs <- read.csv("data/SCAN_Prapae/images.csv")
 
 table(imgs$Owner)
-imgs<- imgs[imgs$Owner=="Yale University",]
-imgs<- imgs[imgs$Owner=="Rights for individual observations belong to the individual observers. In jurisdictions where collections of data are are considered intellectual property, the rights holder of this collection is the California Academy of Sciences.",]
+#imgs<- imgs[imgs$Owner=="Yale University",]
+#imgs<- imgs[imgs$Owner=="Rights for individual observations belong to the individual observers. In jurisdictions where collections of data are are considered intellectual property, the rights holder of this collection is the California Academy of Sciences.",]
+
+#remove inaturalist
+inds<- grep("static.inaturalist.org",imgs$accessURI)
+imgs<- imgs[-inds,]
+#remove defaults
+inds<- grep("default.jpg",imgs$accessURI)
+imgs<- imgs[-inds,]
 
 #run to i=1526
-for(i in 200:dim(imgs)[1]){
+for(i in 1:dim(imgs)[1]){
   try(download.file(imgs$accessURI[i], paste(location,"scan_pr/",str_extract(imgs$accessURI[i], "([^/]+$)"),".jpg",sep=""),
                     cacheOK = FALSE, mode = "wb"))
 } 
