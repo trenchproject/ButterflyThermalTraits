@@ -42,10 +42,15 @@ uvx --with "numpy<2" "dm-tree@0.1.8" --from git+https://github.com/Imageomics/wi
 #-----------------------------
 
 #segmentation
-uvx --with "numpy<2,dm-tree==0.1.8" --from git+https://github.com/trenchproject/wing-segmentation.git wingseg segment --dataset '/Users/lbuckley/yolotemp/images/testimages' --force
+uvx --with "numpy<2,dm-tree==0.1.8" --from git+https://github.com/trenchproject/wing-segmentation.git wingseg segment --dataset '/Users/lbuckley/yolotemp/images/testimages' --force --size 1024 --resize-mode pad 
 
 #check output
 uvx --with "numpy<2,dm-tree==0.1.8" --from git+https://github.com/trenchproject/wing-segmentation.git wingseg scan-runs --dataset '/Users/lbuckley/yolotemp/images/testimages' 
   
-  
+#-----
+#analysis on larger test set
+
+uvx --with "numpy<2,dm-tree==0.1.8" --from git+https://github.com/trenchproject/wing-segmentation.git wingseg segment --dataset '/Users/lbuckley/Google Drive/Shared drives/TrEnCh/Projects/WARP/Projects/WingColoration/images/testset/' --size 1024 --resize-mode pad
+
+
 
