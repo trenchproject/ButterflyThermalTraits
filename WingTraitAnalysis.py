@@ -9,19 +9,24 @@ import numpy as np
 
 #load raw image
 image = cv2.imread('/Users/lbuckley/yolotemp/images/testimages/UCSB-IZC00006871_1.jpg.jpg')
+image = cv2.imread('/Users/laurenbuckley/PieridTest/butterfly_testimages/data/SDNHM212512.jpg.png')
 
 #load masks
 #rt forewing
 mask_rfw = cv2.imread('/Users/lbuckley/yolotemp/images/testimages_0ac29b92-5803-5b07-8308-0f9d0dddcf2e/masks/UCSB-IZC00006871_1.jpg_cls1.png')
+mask_rfw = cv2.imread('/Users/laurenbuckley/PieridTest/testset_aa666eb1-ece0-5d23-94aa-1969adf8a7e3/masks/SDNHM212512.jpg_cls1.png')
 
 #left forewing
 mask_lfw = cv2.imread('/Users/lbuckley/yolotemp/images/testimages_0ac29b92-5803-5b07-8308-0f9d0dddcf2e/masks/UCSB-IZC00006871_1.jpg_cls2.png')
+mask_lfw = cv2.imread('/Users/laurenbuckley/PieridTest/testset_aa666eb1-ece0-5d23-94aa-1969adf8a7e3/masks/SDNHM212512.jpg_cls2.png')
 
 #rt hindwing
 mask_rhw = cv2.imread('/Users/lbuckley/yolotemp/images/testimages_0ac29b92-5803-5b07-8308-0f9d0dddcf2e/masks/UCSB-IZC00006871_1.jpg_cls3.png')
+mask_rhw = cv2.imread('/Users/laurenbuckley/PieridTest/testset_aa666eb1-ece0-5d23-94aa-1969adf8a7e3/masks/SDNHM212512.jpg_cls3.png')
 
 #left highwing
 mask_lhw = cv2.imread('/Users/lbuckley/yolotemp/images/testimages_0ac29b92-5803-5b07-8308-0f9d0dddcf2e/masks/UCSB-IZC00006871_1.jpg_cls4.png')
+mask_lhw = cv2.imread('/Users/laurenbuckley/PieridTest/testset_aa666eb1-ece0-5d23-94aa-1969adf8a7e3/masks/SDNHM212512.jpg_cls4.png')
 
 #convert to grayscale
 image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
@@ -114,6 +119,53 @@ def center_circle_mask(contour, center_x, diameter, image_shape):
     return None  # Circle doesn't fit
 
 #-----------------------------
+#pip3 install scikit-image
+#pip3 install scipy
+
+from skimage.morphology import skeletonize
+from scipy.ndimage import distance_transform_edt
+
+#Function to find medial axis (or longest axis)
+def estimate_wing_medial_axis(image_path):
+    # Read the image
+    img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
+    
+    # Threshold the image to create a binary mask
+    _, binary = cv2.threshold(img, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
+    
+    # Invert the binary image if necessary (wing should be white)
+    if np.sum(binary == 255) < np.sum(binary == 0):
+        binary = cv2.bitwise_not(binary)
+    
+    # Compute the distance transform
+    dist_transform = distance_transform_edt(binary)
+    
+    # Normalize the distance transform for visualization
+    dist_transform = cv2.normalize(dist_transform, None, 0, 255, cv2.NORM_MINMAX)
+    dist_transform = np.uint8(dist_transform)
+    
+    # Compute the skeleton using skimage
+    skeleton = skeletonize(binary // 255)
+    
+    # Multiply the skeleton with the distance transform
+    medial_axis = skeleton.astype(np.uint8) * dist_transform
+    
+    return binary, dist_transform, medial_axis
+
+image_path = 'path/to/your/butterfly_wing_image.jpg'
+binary, dist_transform, medial_axis = estimate_wing_medial_axis(image_path)
+
+# Display results
+cv2.imshow('Binary Wing', binary)
+cv2.imshow('Distance Transform', dist_transform)
+cv2.imshow('Medial Axis', medial_axis)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+
+#Place circle as close to body as possible
+
+
+#---------------------------
 #TRAIT DFM: Doral forewing melanism
 mask1= mask_rhw
 side_lr= 'left' 
@@ -151,7 +203,8 @@ cv2.drawContours(result, [wing_contour], 0, (0, 255, 0), 2)
 cv2.circle(result, center, circle_diameter // 2, (0, 0, 255), 2)
 
 #write out to check
-cv2.imwrite('/Users/lbuckley/yolotemp/images/image.jpg', result)
+#cv2.imwrite('/Users/lbuckley/yolotemp/images/image.jpg', result)
+cv2.imwrite('/Users/laurenbuckley/PieridTest/image.jpg', result)
 
 #---
 
@@ -162,7 +215,8 @@ cv2.circle(mask, center, circle_diameter // 2, 255, -1)
 masked_wing = cv2.bitwise_and(image, image, mask=mask)
 
 #save image
-cv2.imwrite('/Users/lbuckley/yolotemp/images/masked_image.jpg', masked_wing)
+#cv2.imwrite('/Users/lbuckley/yolotemp/images/masked_image.jpg', masked_wing)
+cv2.imwrite('/Users/laurenbuckley/PieridTest/masked_image.jpg', masked_wing)
 
 #calculate the average grayscale value
 dfm = cv2.mean(masked_wing, mask=mask)[0]
