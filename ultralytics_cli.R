@@ -52,5 +52,20 @@ uvx --with "numpy<2,dm-tree==0.1.8" --from git+https://github.com/trenchproject/
 
 uvx --with "numpy<2,dm-tree==0.1.8" --from git+https://github.com/trenchproject/wing-segmentation.git wingseg segment --dataset '/Users/lbuckley/Google Drive/Shared drives/TrEnCh/Projects/WARP/Projects/WingColoration/images/testset/' --size 1024 --resize-mode pad
 
+uvx --with pycocotools fiftyone app view -d '/Users/lbuckley/yolotemp/images/butterfly_testimages' --type fiftyone.types.dataset_types.COCODetectionDataset
 
+uvx --with pycocotools fiftyone app view -d '/Users/lbuckley/Google Drive/Shared drives/TrEnCh/Projects/WARP/Projects/WingColoration/images/butterfly_testimages' --type fiftyone.types.dataset_types.COCODetectionDataset
 
+uvx label-studio
+
+uvx label-studio init --input-path '/Users/lbuckley/PieridTest/' --input-format jpg
+
+#test trained model
+uvx --with "numpy<2,dm-tree==0.1.8" --from git+https://github.com/trenchproject/wing-segmentation.git wingseg segment --yolo-model ~/butterflies/runs/segment/train8/weights/best.pt --dataset '/Users/lbuckley/yolotemp/images/testimages' --force --size 1024 --resize-mode pad 
+
+#update coco
+jq '.images[].file_name |= (split(".")[:-1] | join(".") + ".png")' coco_annotations.json > labels.json
+
+uvx --with pycocotools fiftyone app view -d '/Users/lbuckley/Google Drive/Shared drives/TrEnCh/Projects/WARP/Projects/WingColoration/images/butterfly_testimages' --type fiftyone.types.dataset_types.COCODetectionDataset
+
+uvx --with pycocotools fiftyone app view -d ~/butterfly_testimages --type fiftyone.types.dataset_types.COCODetectionDataset
